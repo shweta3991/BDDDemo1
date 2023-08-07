@@ -1,0 +1,5 @@
+This is some random text
+I want to text to be printed in other file.
+Third line
+Fourth line
+fifth line
